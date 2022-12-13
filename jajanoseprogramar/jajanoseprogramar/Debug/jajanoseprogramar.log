@@ -1,0 +1,4 @@
+﻿  jajanoseprogramar.cpp
+C:\Users\ALUMNOS\source\repos\jajanoseprogramar\jajanoseprogramar\jajanoseprogramar.cpp(34,20): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\ALUMNOS\source\repos\jajanoseprogramar\jajanoseprogramar\jajanoseprogramar.cpp(32,6): warning C4101: 'cuenta': variable local sin referencia
+  jajanoseprogramar.vcxproj -> C:\Users\ALUMNOS\source\repos\jajanoseprogramar\Debug\jajanoseprogramar.exe
